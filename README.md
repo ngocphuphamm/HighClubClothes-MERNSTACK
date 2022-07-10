@@ -5,9 +5,7 @@
 ## CONFIG 
 *  1.IMPORT DATAMONGO
 *  2.FILL .ENV
-*  3 . admin : 
-          * email : ngocphu@gmail.com
-          * p
+*  3 . admin :  email : ngocphu@gmail.com, p
 ---
 ### HOME 
 ![image](https://user-images.githubusercontent.com/87811387/178153848-edfc48c2-3e1b-4af9-95e4-97946beefc5c.png)
